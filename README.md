@@ -23,7 +23,7 @@
   outputfile.exe
 
 
-![spaceH](https://github.com/MullerPenaforte/soilGame/assets/129807601/3d2745df-35e1-4ee1-8c04-abaa87913f52)
+<img src="https://github.com/MullerPenaforte/soilGame/assets/129807601/3d2745df-35e1-4ee1-8c04-abaa87913f52" width="400">
 
 
 
